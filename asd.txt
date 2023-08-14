@@ -1,0 +1,1138 @@
+ELEKTRONSKO POSLOVANJE
+Informacije o predmetu
+dr Dragana Sajfert
+dr Srđan Barzut
+Cilj nastavne jedinice
+• Upoznavanje sa informacijama o predmetu
+Sadržaj predmeta
+• Pojam elektronskog poslovanja • eGovernment
+• Poslovni informacionisistemi • Elektronsko zdravstvo
+• Oblici elektronskog poslovanja • Elektronsko učenje
+• Elektronska trgovina • Sigurnost i zaštita
+• Internet marketing
+• Elektronsko bankarstvo
+1. Pojam elektronskog poslovanja
+Osnovni pojmovi u vezi s elektronskim poslovanjem, kratak
+istorijat ovog koncepta i ključni događaji koji su doveli do
+ekspanzije elektronskog poslovanja.
+Takođe, detaljno su obrazloženi mesto i značaj interneta kao
+osnove elektronskog poslovanja.
+2.Poslovni informacioni sistemi
+U ovom poglavlju su objašnjenje osnove informacionih
+sistema, karakteristike različitih vrsta informacionih sistema i
+njihovi reprezentativni predstavnici.
+3.Oblici elektronskog poslovanja
+U zavisnosti od kategorija učesnika, elektronsko
+poslovanje ima različite modele i obuhvata različite
+oblasti.
+4. Elektronska trgovina
+Razvojem interneta ELEKTRONSKA TRGOVINA doživela
+najveću ekspanziju i najviše doprinela popularizaciji
+koncepta elektronskog poslovanja.
+Elektronska trgovina ima različite pojavne oblike i modele u
+zavisnosti od kategorija učesnika. Poseban segment ovog
+poglavlja bavi se pokretanjem internet biznisa u Srbiji.
+5. Internet marketing
+Pojava velikog broja kompanija koje svoje poslovanje
+obavljaju preko interneta ili koriste internet kao kanal za
+uspostavljanje kontakata sa kupcima i promociju svoje
+ponude uslovili su potrebu za razvojem različitih tehnika
+internet marketinga koje treba da doprinesu efikasnoj
+promociji i izgradnji brenda.
+6.Elektronsko bankarstvo
+Elektronsko bankarstvo ima dugu tradiciju,
+razvoj tehnologije dovodi do pojave novih i inovativnih
+modela za realizaciju transakcija plaćanja elektronskim
+putem.
+7. Elektronsko poslovanje u
+javnoj upravi
+U pitanju je segment elektronskog poslovanja od kojeg
+građani i privredni subjekti imaju najveće i najočiglednije
+koristi u situaciji kada je elektronsko poslovanje u javnoj
+upravi implementirano u potpunosti na nivou jedne
+države.
+8.Elektronsko zdravstvo
+U ovom poglavlju su objašnjene osnovne postavke
+e-Zdravstva kao izuzetno značajnog segmenta elektronskog
+poslovanja.
+Razmatrani su pojmovi elektronskog zdravstvenog kartona,
+telemedicine, e-Uputa, jedinstvenog zdravstvenog
+informacionog sistema od kojeg koristi imaju svi učesnici u
+sistemu zdravstvene zaštite.
+9.Elektronsko učenje
+Poput ostalih oblasti, ni učenje nije ostalo imuno na
+konstantan napredak u tehnologiji, tako da je kao
+posledica toga došlo do razvoja novih obrazovnih
+praksa i obrazovnih modela zasnovanih na tehnologiji
+koji olakšavaju proces usvajanja novih znanja.
+10.Sigurnost i zaštita
+Najosetljiviji deo elektronskog poslovanja u opštem
+smislu su zloupotrebe. Uporedo sa razvojem mehanizama
+za zaštitu od zloupotreba, gotovo na dnevnoj osnovi
+pojavljuju se novi savremeniji oblici i scenariji kriminalnih
+dela.
+U vezi sa zaštitom od različitih vrsta zloupotreba
+preporučuje se kombinacija preventivnih, tehničkih i
+pravnih mera zaštite.
+Metode rada
+• Prezentacije
+• Predavanja
+• Diskusija
+• Studije slučaja
+• Studentska predavanja i prezentacije
+Način polaganja ispita
+Broj EPSB: 7
+Tokom semestra
+• Prvi kolokvijum (sredina semestra), 35 poena
+• Drugi kolokvijum (kraj semestra), 35 poena
+• Projekat, 30 poena
+• Na kolokvijumima je neophodno ostvariti minimum
+51% za prolaz.
+• Položeni kolokvijumi važe u prvom ispitnom roku. Nakon toga,
+studenti polažu integralni test.
+• Projekat je obavezan i predaje se najkasnije 10 dana pre termina
+ispita.
+• Temu za projekat, uz kratak opis, studenti samostalno predlažu
+predmetnom profesoru koji treba da je odobri.
+Način polaganja ispita
+U ispitnom roku
+• Integralni test, 70 poena
+• Projekat, 30 poena
+• Studenti koji nisu položili oba kolokvijuma u
+ispitnom roku polažu integralni test.
+• Integralni test obuhvata kompletno gradivo.
+• Na integralnom testu je neophodno ostvariti minimum 51% za
+prolaz.
+• Položeni test važi u 2 ispitna roka.
+• Projekat je obavezan i predaje se najkasnije 10 dana pre termina
+ispita.
+• Temu za projekat studenti predlažu predmetnom profesoru
+koji treba da je odobri.
+• Po završenom projektu, studenti putem mejla dostavljaju
+predmetnom nastavniku (dragana.sajfert@its.edu.rs) word
+dokument koji sadrži biznis plan u skladu sa Business Model
+Canvas metodologijom i screenshot-ove web sajta izrađenog u
+CMS-u.
+Prilikom ocenjivanja projekta će biti vrednovani sledeći elementi:
+• 1. Originalnost ideje za IT start up (50% ukupne ocene za
+projekat)
+• 2. Kvalitet i sadržajnost urađenog Canvasa i web sajta (30%
+ukupne ocene za projekat)
+• 3. Veština argumentovanog i jasnog predstavljanja ideje za IT
+start up (20% ukupne ocene za projekat)
+Ocena se dobija na osnovu ukupno osvojenih poena:
+Ocena Značenje ocene Ukupan broj poena
+10 Odličan 91-100
+9 Izuzetno dobar 81-90,99
+8 Vrlo dobar 71-80,99
+7 Dobar 61-70,99
+6 Dovoljan 51-60,99
+5 Nije položio Do 50,99
+Literatura
+1. D.Sajfert, S.Barzut, Predavanja i vežbe za predmet u ppt
+formatu (na Studentskom Portalu)
+2. V.Simović, Elektronsko poslovanje, udžbenik, ITS, 2016.
+3. Online izvori
+Kontakt
+dr Dragana Sajfert
+dragana.sajfert@its.edu.rs
+dr Srdjan Barzut
+srdjan.barzut@its.edu.rs
+Vreme održavanja konsultacija:
+nakon predavanja ili mejlom u dogovoru sa predmetnim
+nastavnikom
+
+
+
+ELEKTRONSKO POSLOVANJE
+Pojam elektronskog poslovanja
+dr Dragana Sajfert
+dr Srdjan Barzut
+Cilj nastavne jedinice
+• Upoznavanje sa pojmom elektronskog poslovanja
+• Razumevanje obuhvata elektronskog poslovanja
+• Razumevanje značaja Interneta u kontekstu razvoja
+elektronskog poslovanja
+Šta je elektronsko poslovanje?
+• Elektronsko poslovanje podrazumeva korišćenje
+informacione tehnologije za obavljanje
+najrazličitijih poslovnih aktivnosti,
+operacija, transakcija i sl.
+• Koncept eBusiness-a je nastao 60-
+tih godina 20.veka
+• Pojava Interneta je dovela do ekspanzije
+elektronskog poslovanja
+• Internet je svetski sistem
+umreženih računarskih mreža
+koji povezuje milione računara
+širom sveta.
+• Internet je “mreža svih mreža”
+(kućne, poslovne, naučne, javne
+uprave...) koje razmenjuju
+informacije i usluge (email,
+chat, fajl, dokumenti www)
+Količina puteva na Internetu
+• Internet povezuje računare i računarske mreže pomoću Internet
+protokola.
+• Internet protokol- format koji sadrži informacije o adresiranju
+čime se postiže da svaki mrežni uređaj (računar, radna stanica,
+server) koji je povezan na Internet ima jedinstvenu adresu.
+Mrežni uređaj se lako identifikuje u celoj Internet mreži.
+DNS (Domain Name System) - sistem koji pretvara imena računara
+(host names) u IP adrese.
+Kratak istorijat elektronskog
+poslovanja
+3 ključna razloga koja su dovela
+do razvoja eBusiness-a: 2.
+1. 60-tih godina XX vekaDARPA (Defense Advanced
+Research Project Agency)-
+vojni projekat koji je
+rezultirao pojavom Interneta
+Istraživanje Peter
+McCullogh-a iz Xerox-a
+je rezultovalo izgradnjom
+laserskog printera
+Kratak istorijat elektronskog
+poslovanja
+3 ključna razloga koja su dovela
+do razvoja eBusiness-a:
+3. Odluka IBM-a da uđe na
+tržište personalnih računara
+Kratak istorijat elektronskog
+poslovanja
+Uporedni procesi koji su doveli 2.
+do razvoja eBusiness-a:
+1. Pojava ATM-a (Automated
+Teller Machine) tj.
+bankomata
+kraj 60-ih god.
+XX veka
+Pojava POS (Point Of Sale)
+terminala
+plaćanje “plastičnim”
+novcem u maloprodajnim
+objektima
+ATM (Automated Teller Machine)-bankomati
+Funkcije bankomata:
+• Isplata novca
+• Uplata novca
+• Menjački poslovi
+• Plaćanje računa (struja, telefon, Internet...)
+• Štampanje mini izvoda
+• Odobravanje kredita u zemljama koje su zakonski regulisane
+POS (Point Of Sale) terminal
+Funkcije POS terminala: omogućuje plaćanje roba i usluga.
+Koristi se u uslužnim i trgovinskim radnjama.
+Opremljen je softverom za procesiranje transakcija platnim
+karticama i na sledeći način:
+Očitavanje
+podataka sa kartice
+Prosleđivanje
+podataka ka banci
+prihvatiocu
+novčanih sredstava
+Prihvatanje
+odgovora banke
+izdavaoca kartice
+na osnovu koga se
+vrši naplata za
+kupovinu robe.
+4 faze u razvoju e-Business-a
+1. 70-tih godina banke počinju da koriste EFT transfere (Electronic
+Funds Transfer)
+2. početkom 80-tih godina kompanije počinju da koriste sisteme za
+elektronsku razmenu poruka (SWIFT, EDI i sl).
+3. 90-tih godina nastaju online servisi (chat, mail), web browseri,
+HTP protokol, prvi kompanijski sajtovi.
+4. krajem 90-tih nastaju komercijalne transakcije preko weba.
+1. EFT (Electronic Funds Transfer)
+• Pojava elektronskog novca nametnula je novu filozofiju u
+bankarstvu koja se zasnivala na elektronskoj razmeni novca i
+podataka.
+• Elektronski prenos novca (EFT) – postupak gde se pomoću
+elektronskog prenosa poruke (putem terminala, telefona,
+kompjutera, magn. trake) prenosi novac između 2 mesta.
+
+2.Sistemi za elektronsku razmena poruka
+To su sledeći sistemi:
+1. SWIFT- (Society for Worldwide Interbank Financial
+Telecommunication) – Udruženje za međunarodne,
+međubankarske finansijske telekomunikacije.
+• Međunarodna bankarska mreža i softver za razmenu poruka
+između banaka. Omogućava transfer sredstava između banke
+pošiljaoca i banke primaoca. Poruke se odnose na način plaćanja.
+• 215 zemalja.
+• Sedište SWIFT-a je u Belgiji.
+• Svaka banka ima sledeće kodove: države, grada, banke, filijale,
+valute, prioritetne i normalne poruke plaćanja.
+2. Elektronska razmena podataka- EDI (Electronic Data Interchange)
+Razmena poslovnih podataka elektronski putem između računara
+zasebnih firmi u vidu: pisanih dokumenata, narudžbenica, računa,
+dokumentacije.
+3. Unutarkompanijski mejlovi - Mejlovi koji curkulišu unutar
+kompanije pomoću kojih zaposleni komuniciraju i izršavaju zadatke.
+3.Online servisi
+• Chat,
+• mail,
+• vesti,
+• browser (pregledač),
+• HTP protokol-protokol za komunikaciju između servera
+(programa) i klijenta (šalje zahteve)
+• web sajtovi (pružalisu osnovne informacije o kompaniji)
+4. E-commerce transakcije
+• Komercijalne transakcije se obavljaju putem web-a.
+• Dot-com kompanije-kompanije koje svoje poslovanje baziraju na
+Internetu (Google, Yahoo, Facebook, Twitter...)
+
+Pitanja za proveru znanja
+1. Šta je elektronsko poslovanje (e-Business)?
+2. Koji su ključni događaji doveli do nastanka i ekspanzije elektronskog poslovanja?
+3. Kada je nastalo elektronsko poslovanje?
+4. Koje kompanije su najveći svetski proizvođači ATM uređaja?
+5. Šta je POS terminal?
+Naredno predavanje
+Internet kao osnova elektronskog poslovanja
+
+
+
+
+
+
+ELEKTRONSKO POSLOVANJE
+ATM- ovi kao faktor razvoja elektronskog
+poslovanja
+dr Dragana Sajfert
+dr Srđan Barzut
+• Studija slučaja: Istorija ATM uređaja
+Studija slučaja: Istorija ATM uređaja
+ATM uređaji su u svom današnjem obliku
+nastali pre oko 50 godina, tačnije 1967.godine. Prvi
+uspešan poduhvat implementacije ATM
+uređaja desio u Evropi 1967. godine.
+Tri nezavisna projekta su istovremeno bila pokrenuta u
+Evropi te godine. To su projekti:
+Barclaycash i Chubb MD2 u Velikoj Britaniji i projekat
+Bankomat u Švedskoj.
+Direktna saradnja bankara i inženjera dovela je do ovih
+inovacija, a sve sa ciljem da se reše kompleksni problemi
+koji su uočeni u prvim godinama korišćenja ATM-ova.
+Kompanija IBM je imala dominantnu ulogu na ovom tržištu.
+Onda je krajem 70-ih godina ova kompanija na tržište
+lansirala generaciju IBM 4732 ATM-ova.
+• Interesantno je da je u to vreme malo bilo onih koji su
+verovali da ATM-ovi mogu da dožive komercijalni uspeh na
+tržištu, u društvu u kojem su ljudi u plaćanjima koristili
+isključivo novčanice i kovanice, a platne kartice ni izbliza
+nisu bile popularne kao danas.
+• Problem u vezi sa ovom generacijom bankomata je bio taj
+da su bili nekompatibilni sa svim ranijim modelima
+infrastrukturom koja je postojala na tržištu.
+• Ova okolnost je dovela do toga da su banke masovno
+odbacile ovu generaciju bankomata kompanije IBM, čime je
+ova kompanija i definitivno napustila tržište platnih sistema
+Rast broja banaka koje su počele da implementiraju ATM-ove
+u svoju poslovnu praksu doveo je do porasta broja
+proizvođača:
+Honeywell u SAD, Philips, Olivetti i Siemens-Nixdorf u Evropi.
+ATM uređaji (bankomati)
+• ATM je naziv skraćen od Automated Teller
+Machine možemo da prevedemo kao
+automatizovana mašina za izdavanje novca.
+• Ovo su uređaji koji funkcionišu po principu
+samousluživanja, najčešće se postavljaju u blizini
+ulaza u banku ili na nekim prometnim mestima.
+Bankomati se sastoje od dva osnovna dela,
+- dela koji služi za manipulaciju novčanicama je
+elektromehanički uređaj koji služi za tačno prebrojavanje
+novčanica i njihovo izdavanje,
+- deo koji služi za manipulaciju podacima u stvari je uređaj
+zasnovan na računaru koji podatke o zatraženim iznosima za
+isplatu obrađuje putem online veze sa bazom podataka u
+banci (ekran, tastatura, štampač, čitač kartice).
+Vrste bankomata
+• Keš bankomati, služe kao uređaji za isplatu gotovine,
+• Info bankomati, služe za pružanje informacija i
+izdavanje naloga,
+• Bankomati za menjačke poslove (služe za konverziju
+valuta),
+• Bankomati za plaćanje računa,
+• Bankomati za deponovanje dnevnog pazara,
+• Multifunkcionalni bankomati (obavljaju više funkcija
+odjednom).
+• Sedamdesetih godina dolazi do standardizacije i
+povezivanja raznorodnih bankarskih mreža na jednom
+projektu, a to je mreža bankomata, što je omogućilo da
+bez obzira na koji bankomat korisnik dođe može biti
+uslužen, a banke posle vrše međusobno poravnanje.
+Pitanja za diskusiju:
+1. Objasniti probleme koje su banke imale u prvim godinama
+uvođenja ATM-ova
+2. Predstavite svoje vidjenje ATM-ova u budućnosti
+3. Navesti slične primere iz prakse
+Naredno predavanje
+• Koncept Internet of things
+• Hvala na pažnji
+
+
+
+
+ELEKTRONSKO POSLOVANJE
+Internet kao osnova elektronskog poslovanja
+dr Dragana Sajfert
+dr Srđan Barzut
+Cilj nastavne jedinice
+• Upoznavanje sa statistikom korišćenja Interneta globalno
+• Razumevanje pojma i značaja digitalnih podela
+• Razumevanje osnovne infrastrukture Interneta
+• Identifikovanje ključnih servisa Interneta
+Internet
+• Internet je sistem međusobno povezanih računarskih mreža i njihovih
+korisnika
+• Internetworking - „Mreža svih mreža“
+• Internet je spoj multimedije, računarskih sistema i telekomunikacija a
+koji je transformisao način na koji funkcionišu moderni komunikacioni
+sistemi
+• mogućnost trenutne komunikacije širom sveta u različitim oblicima (tekst, glas, video...)
+• primena na mnogo različitih uređaja
+• višenamenska primena (komunikacija, razmena informacija, poslovanje, trgovina, zabava
+itd.)
+Internet kao osnova e-Business-a
+• Internet kao tehnologija
+predstavlja integrisanu mrežu
+servera, rutera, telekomunikacione
+opreme, linija, računara ..
+• Internet funkcioniše zahvaljujući
+postojanju otvorenih standarda
+koji svakoj mreži dozvoljavaju da se
+poveže sa bilo kojom drugom
+mrežom.
+Istorijat
+• Počeci Interneta povezuju se za stvaranje ARPANET-a 1969. godine
+ Advanced Research Project Agency Network
+ početna ideja je bila da se napravi mreža kojom bi se povezale američke
+vojne baze
+ razvoj mreže je rađen na univerzitetima
+ mali računari nazvani Interface Message Processors (IMP) su bili povezani u
+mrežu
+ serijska veza brzine 50 kb/s
+ predstavljen je koncept komutacije paketa (podela poruke u pakete koji se
+šalju mrežom i sastavljaju na odredištu)
+Istorijat
+• Prvi (neuspešan) prenos podataka ARPANET mrežom napravljen je 29. oktobra 1969.
+godine između Kalifornijskog univerziteta u Los Anđelesu i Istraživačkog centra u
+Stanfordu
+• Planirano je da se pošalje reč „login“
+• Prilikom slanja slova „g“, sistem je pao...
+• Ipak, ovo se smatra početkom postavljanja osnove interneta, kakvog danas
+koristimo
+ARPANET
+• 5. decembra 1969. uspostavljena je prva
+mreža koja je povezivala 4 računara u
+univerzitetskim računarskim centrima u SAD:
+ Kalifornijski univerzitet, Los Anđeles -
+(University of California, Los Angeles – UCLA)
+ Istraživački centar u Stanfordu - (Stanford
+Research Institute – SRI)
+ Kalifornijski univerzitet, Santa Barbara -
+(University of California, Santa Barbara –
+UCSB)
+ Univerzitet u Juti
+NSFNET
+• TCP/IP protokol postaje opšteprihvaćen za razvoj drugih mreža
+• Razvojem super-računara javlja se potreba da se omogući pristup njihovim
+resursima
+• 1986. počinje sa radom NSFNET (National Science Foundation Network), mreža
+namenjena naučno-istraživačkom radu i obrazovanju
+• Sa NSFNET su besplatno povezani super-računari sa univerziteta, instituta i
+drugih istraživačkih centara
+• Počinje ubrzan razvoj računarskih mreža na univerzitetima
+• 2 000 korisnika 1986. - 2 miliona korisnika 1993.
+Komercijalizacija interneta
+• ARPANET i NSFNET mreže nisu služile za komercijalne potrebe a privatna neformalna
+komunikacija je bila zabranjena
+• Nastanak personalnih računara – PC (engl. Personal Computer) 1980-ih godina prati
+razvoj lokalnih i regionalnih internet provajdera, koji su nudili bazične servise, kao što su
+elektronska pošta i razmena fajlova
+• 1989. počinje povezivanje regionalnih internet provajdera preko infrastrukture NSFNET-a
+• 1991. ukidanje zabrane komercijalnih aktivnosti
+• 1995. NSFNET mreža se gasi
+Komercijalizacija interneta
+• 1990. u CERN-u (Evropska organizacija za nuklearno istraživanje )
+Tim Berners Lee kreirao je WWW
+• WWW (World Wide Web) = W3 = Web – „svetska mreža“
+• Internet i WWW nisu isto!
+• Internet je sistem međusobno povezanih računarskih mreža i
+njihovih korisnika, a WWW je samo jedan od servisa (usluga) koje
+Internet pruža
+• WWW je servis koji omogućava prikaz dokumenata – Veb stranica,
+koje su međusobno povezane pomoću hiperveza
+• Za pregled veb stranica potreban je Veb čitač (engl. Web browser)
+• 1993. – Mosaic je prvi grafički veb pregledač koji je postao
+popularan
+• 1994. – Netscape Navigator - dominantni veb čitač do 2000.
+godine
+• 1992. – Akademska mreža u Srbiji
+• 1996. – Internet stiže na naše prostore (tadašnja SR Jugoslavija)
+ EUnet je nastao 1995. godine kao potpisnik franšize sa EUnet
+International CS Amsterdam, tada najvećim Internet
+provajderom u Evropi
+Komercijalizacija interneta
+Komercijalizacija interneta
+
+Statistika korišćenja Interneta
+Izvor:https://internetworldstats.com/stats.htm
+
+Digitalne podele
+Digitalne podele su razlike koje postoje
+između regiona u svetu u pogledu broja
+korisnika Interneta
+Digitalne podele su uslovljene sledećim
+faktorima:
+• pol
+• rasa
+• ekonomskistatus
+• stepen obrazovanja
+• digitalna pismenost
+• znanje jezika
+• ...
+Digitalne podele korišćenja Interneta u svetu
+Internet kao osnova elektronskog poslovanja
+• Internet i njegova popularnost dovela je do toga da se
+kompletni informacioni sistemi baziraju na Internet
+tehnologijama:
+• TCP/IP protokol za komunikaciju
+• Veb klijent/server arhitekturi
+• Na taj način, moguće je lako povezivanje informacionog
+sistema i korisnika Interneta, bilo da su oni radnici
+kompanije, klijenti ili poslovni partneri
+Intranet
+• Intranet se može objasniti kao privatni oblik Interneta, tj. miniinternet - internet ograničen na jednu organizaciju
+• Intranet je mreža projektovana da zadovolji interne potrebe za
+informacijama na nivou jedne organizacije
+• Privatna računarska mreža neke organizacije koja koristi internet
+protokole i mrežnu povezanost kako bi omogućila svojim
+zaposlenima sigurnu razmenu podataka i obavljanje poslova
+primenom Internet servisa, kao što su: WWW, elektronska pošta,
+razmena datoteka (FTP), Mailing lists, IRC itd.
+ Intranet ne mora imati pristup Internetu
+ Ukoliko jeste povezan sa Internetom, koriste se zaštitni zid (engl.
+Firewall) ili DMZ tehnologije kao sigurnosno obezbeđenje
+Intranet
+Ekstranet
+• Ekstranet (engl. extranet) je proširenje Intraneta, odnosno
+mogućnost da informacioni sistem organizacije može da
+funkcioniše preko Interneta sa drugim organizacijama
+• Ekstranet povezuje delove intraneta različitih organizacija i
+omogućava bezbednu komunikaciju između poslovnih partnera
+• Nije javno dostupan, već je namenjen za razmenu podataka i
+poslovnim operacijama s dobavljačima, kupcima i drugim
+poslovnim partnerima
+• Primeri upotrebe Ekstraneta:
+• Razmena podataka u standardizovanom
+elektronskom obliku (engl. Electronic Data
+Interchange)
+• Deljenje kataloga proizvoda ili tehničkih
+specifikacija svim partnerima i distributerima
+• Zajedničko razvijanje programa i ideja s ostalim
+kompanijama
+• Primer ekstranet rešenja za hotele
+Ekstranet
+Razlika između Interneta, Intraneta i
+Ekstraneta
+Internet Intranet Ekstranet
+Tip pristupa Otvoren Privatan Kontrolisan
+Korišćenje Javno Za članove
+organizacije
+Poslovni partneri
+Tip informacija Opšte Odgovarajuće Selektovane
+https://www.youtube.com/watch?v=pXVYcBbfBAg
+Pitanja za proveru znanja
+1. Šta je to ARPANET?
+2. Čemu je bila namenjena NSFNET?
+3. Da li su pojmovi Internet i WWW sinonimi?
+4. Zašto je pregledač MOSAIC značajan?
+5. Koliki je broj korisnika Interneta u globalnim okvirima?
+6. Šta označava pojam digitalna podela?
+7. Šta je to Intranet?
+8. Da li Intranet mora biti spojen sa Internetom?
+9. Koja je funkcija Ekstraneta?
+
+
+
+
+
+ELEKTRONSKO POSLOVANJE
+Internet kao osnova elektronskog poslovanja
+dr Dragana Sajfert
+dr Srđan Barzut
+Cilj nastavne jedinice
+• Upoznavanje sa osnovnim
+servisima i protokolima
+• Adresiranje na internetu
+Internet servisi i protokoli
+• Internet servisi su usluge koje možemo koristiti na Internetu
+1. Elektronska pošta (e-mail)
+2. World Wide Web - www
+3. File Transfer Protocol - FTP
+4. Sobe za četovanje (Chat rooms)
+5. Mejling liste
+Protokoli su skup pravila i normi koji definišu način i
+oblik razmene podataka u komunikacionim sistemima
+Rad interneta kao mreže tj. razmena podataka na
+internetu je definisana skupom TCP/IP protokola
+Rad pojedinih servisa definisan je dodatnim
+protokolima višeg nivoa
+za WWW — HTTP (engl. Hypertext Transfer
+Protocol)
+Internet servisi
+1. Elektronska pošta (e-mail) – jedan od najrasprostranjenijih servisa koji
+omogućava razmenu poruka i podataka (tekst, multimedija ili datoteke)
+putem Interneta
+Servis koji omogućuje razmenu podataka između pošiljaoca i
+primaoca.
+Za čitanje poruka se koriste:
+1. E-mail klijent (Outlook Express, Outlook, Thunderbird)-softver
+instaliran na mašini korisnika
+2. Web mali (Gmail, Hotmail, Yahoo mail)-email se čitaju i šalju
+korišćenjem browsera-a.
+Broj e-mail korisnika od 2017. do 2025.
+(izraženo u milionima)
+Izvor: Statista
+Broj primljenih i poslatih mejlova dnevno od 2017.
+do 2025. (u milijardama)
+Izvor: Statista
+Internet servisi
+Osnovni javni informacioni servisi
+• 2. WWW – servis koji omogućava prikaz dokumenata – Veb stranica, koje su
+međusobno povezane pomoću hiperveza
+WWW- Svetska mreža linkova, tekstualnih sadržaja i multimedije koji se pronalaze
+pomoću URL.
+● Web sajt- skup povezanih web stranica.
+● Uniform Resource Locator – URL-web adresa koja određuje gde se nalazi neki
+sadržaj na webu https://www.mts.rs/
+● Web Browser-omogućuje pregledanje web stranica
+• WWW-čine ga svi websajtovi
+• Web server - računar na kojem se nalaze websajtovi
+• World Wide Web je sistem kojim se različiti audio ili video fajlovi,
+tesktovi i slike na Internetu povezuju linkovima.
+3. File transfer protocol
+To je standardni mrežni protokol za
+transfer fajlova sa jednog računara na
+drugi korišćenjem Interneta.
+4. Soba za četovanje (Chat rooms)
+Predstavlja istovremenu komunikaciju između
+većeg broja učesnika.
+Internet servisi
+• 5. Mailing lists – u okviru osnovnog servisa el. pošte omogućava
+grupisanje korisnika sličnog profila. Poruka poslata grupi se
+automatski dostavlja svim članovima grupe.
+• Dve osnovne vrste mailing lista:
+• Klasična mejling lista (slanje promotivnih sadržaja)
+• Diskusiona lista (poznata i pod nazivom Newsgroup) – grupa povezanih
+korisnika oko istih interesa koji diskutuju u okviru tematskih vesti.
+Internet servisi
+Savremeni servisi
+• Prvi servisi Interneta: razmena datoteka, el. pošta i WWW, koriste se
+i danas
+• Mnogi drugi osnovni servisi su značajno unapređeni i međusobno
+integrisani
+ Internet forumi ili npr. grupe na društvenim mrežama naslednici su
+Diskusionih lista
+• Nastali su mnogi novi servisi, kao npr.:
+ Televizija preko Interneta – IPTV (engl. Internet Protocol TeleVision)
+ Računarstvo u oblaku (engl. Cloud computing)
+Internet servisi – Web terminologija
+• Web sajt (engl. site) skup smisleno povezanih Web stranica koje se
+nalaze na nekom Web serveru
+• Serveri su računari dizajnirani da obezbede programe, podatke i druge
+resurse ostalim umreženim računarima - klijentima
+• Web serveri su namenski serveri koji procesuiraju Web stranice, čime
+opslužuju Web klijente
+Internet servisi - WWW
+• WWW ili Web je najkorišćeniji servis Interneta
+• Najčešće traženi sadržaji su Web stranice.
+• Web stranica je zapravo tekst kodiran HTML (engl. Hypertext Markup
+Language) jezikom za označavanje
+• Stranica kodirana HTML-om je u osnovi statički tekst
+Internet protokol
+Simboličko adresiranje:
+Internet protokol
+Domain Name registri - institucije koje vrše registraciju domena
+Postoje 2 kategorije domena:
+1. Generički top level domeni (gTLD) : .com.info.net
+2. Country code top level domeni (ccTLD) : .rs.uk.us.
+• Konvertovanje adresa domena u numeričke IP adrese se vrši
+putem DNS (Domain Name System).
+Primer domena: www.wikipedia.org.
+Primer IP adrese: 207.142.131.23
+Internet protokol poznaje svakog domaćina po IP adresi
+Internet protokol
+Pravila simboličkog adresiranja:
+• TLD = Top-Level Domain – najviši hijerarhijski nivo DNS-a
+ generic top-level domains (gTLD)
+ country code top-level domains (ccTLD) - TLD nacionalnih domena su sačinjeni od
+dva slova i većina se poklapa sa ISO 3166-1 standardom državnih kodova
+ IDN (Internationalized Domain Name) TLD domeni koji koriste druga pisma u
+nazivu npr. Ћирилични интернет домен .СРБ
+• .com
+• .info
+• .net
+• .org
+• .biz
+• ...
+• .rs – Republika Srbija
+• .de – Nemačka
+• .fr – Francuska
+• .sl – Slovačka
+Internet protokol
+Pravila simboličkog adresiranja:
+• Klase se prave kako bi se napravila podela na određenu vrstu vlasnika
+domena. U Srbiji su to:
+ edu - obrazovne ustanove
+ co – poslovni korisnici
+ in – fizička lica
+ org – organizacije
+ gov – državni organi
+ ac – akademska mreža
+Ko upravlja Internetom?
+• ICANN (engl. Internet Corporation for Assigned Names and
+Numbers) je neprofitna organizacija koja upravlja Internetom,
+rukovodi njegovom strukturom (IP adresama i TLD domenima) i
+glavnim DNS serverima
+• Sprovodi akreditaciju registara domena
+• Registar nacionalnog internet domena Srbije - RNIDS je zadužen za
+upravlјanje Centralnim registrom o registrovanim nazivima
+nacionalnih internet domena u Srbiji
+• Regionalni Internet Registri
+(RIR
+)
+registracija IP adrese
+po regionima
+u svetu
+
+u svetu postoji
+5 RIR
+-ova
+za 5 regiona
+• Internet Service Provider (ISP) pruža korisnicima uslugu
+priključivanja na Internet
+ostale vezane usluge (hosting, e
+-
+mail, računarstvo u oblaku itd.)
+Ko upravlja Internetom?
+Izvor
+Pitanja za proveru znanja
+1. Koji su osnovniservisi Interneta?
+2. Koji su osnovni protokoli Interneta?
+3. Šta je HTML?
+4. Navesti 3 primera gTLD.
+5. Navesti 3 primera ccTLD.
+6. Koliki je broj korisnika Interneta u globalnim okvirima?
+7. Kako se naziva sistem koji se koristiza prevođenje intuitivnih simboličkih imena
+u IP adresu računara?
+8. Šta je URL?
+Reference
+• D. Sajfert, S. Barzut, Predavanja i vežbe za predmet u ppt formatu (na
+Studentskom Portalu)
+• V. Simović, Elektronsko poslovanje, udžbenik, ITS, 2016.
+• Online izvori
+Naredno predavanje
+Poslovni informacionisistemi
+
+
+
+
+
+
+
+ELEKTRONSKO POSLOVANJE
+Koncept Internet of Things
+dr Dragana Sajfert
+dr Srđan Barzut
+Internet of Things
+• Internet stvari (engl. Internet of Things - IoT) je
+koncept koji podrazumeva umrežene uređaje
+(„stvari“) koji poseduju senzore, aktuatore,
+neophodnu elektroniku i softver, čime su omogućena
+razna očitavanja, kontrola i upravljanje preko mrežne
+infrastrukture ili Interneta.
+• Aktuatori predstavljaju mehanizam kojim upravljački
+sistem deluje na okolinu, preko drugih mehanizama
+ili sistema.
+•
+Internet of Things
+• Ideja formiranja mreže pametnih uređaja datira
+još od 1982. godine kada je napravljen prvi
+takav uređaj povezan sa ARPANET-om
+• Modifikovani automat za prodaju Coca-Cola na
+Univerzitetu Carnegie Mellon
+• Mogao je da prijavi inventarno stanje i da li je
+zadata temperatura pića u podešenom opsegu
+Internet of Things
+• U nedostatku današnje tehnologije, prvi industrijski
+IoT sistemi su bili bazirani na obeležavanju,
+automatskom očitavanju, praćenju i upravljanju
+pomoću:
+Optičkih čitača primenom bar-kôda (engl. barcode)
+Radiofrekventne identifikacije - RFID (engl. Radio Frequency
+Identification)
+• Prilikom očitavanja, označena „stvar“ je identifikovana i
+locirana (adresirana) unutar nekog sistema
+RFID Tag – Čip sa antenom
+• Čip sa antenom formira oscilatorno kolo koje reaguje na
+tačno određenu frekvenciju
+• Čitač stvara promenljivo elektromagnetno polje zadate
+frekvencije i pobuđeni čip šalje podatke
+• Frekvencije: 30-500 KHz, 850-950 MHz i 2,4-2,5 GHz
+• Nije potrebna optička vidljivost
+Radiofrekventno prepoznavanje
+• Primena: beskontaktno očitavanje platnih
+kartica
+Radiofrekventno prepoznavanje
+• Primena: kontrola pristupa
+Radiofrekventno prepoznavanje
+• Primena: zaštita proizvoda od krađe
+Radiofrekventno prepoznavanje
+• Primena: beskontaktno očitavanje dokumenata
+Radiofrekventno prepoznavanje
+• Primena: identifikacija pomoću RFID tagova
+(kartica) može se primeniti za razne
+specijalizovane usluge
+Radiofrekventno prepoznavanje
+• NFC (Near Field Communication) je novi skup standarda za
+pametne telefone i druge prenosne uređaje i omogućava
+dvosmernu RFID komunikaciju u odnosu na klasične RFID
+sisteme koji su imali jednosmernu komunikaciju
+Internet of Things
+• Tokom proteklih nekoliko godina, IoT je postao jedna od
+najvažnijih tehnologija 21. veka.
+• Sada kada možemo da povežemo svakodnevne predmete –
+kuhinjske uređaje, male kućne aparate, automobile, termostate,
+bebi monitore – na internet, čime je omogućena trenutna
+komunikacija između ljudi, procesa i stvari.
+• U ovom hiperpovezanom svetu, digitalni sistemi mogu da
+snimaju, nadgledaju i prilagođavaju svaku interakciju između
+povezanih stvari.
+Koje tehnologije su omogućile IoT?
+• Pristup jeftinoj tehnologiji senzora male snage
+• Povezivanje – mnoštvo mrežnih protokola za internet je olakšalo povezivanje
+senzora sa oblakom i drugim „stvarima“ radi efikasnog prenosa podataka
+• Platforme računarstva u oblaku – pristup deljenoj infrastrukturi za skladištenje i
+deljenje podataka
+• Mašinsko učenje i analitika – brza obrada i pristup različitim i velikim količinama
+podataka uskladištenih u oblaku
+• Veštačka inteligencija (AI) – napredak u neuronskim mrežama doneo je obradu
+prirodnog jezika (NLP) na IoT uređaje (kao što su digitalni lični asistenti Alexa,
+Cortana i Siri) i učinio ih privlačnim, pristupačnim i održivim za kućnu upotrebu
+Broj IoT uređaja (u milijardama)
+Izvor: Statista
+Internet of Things
+• Skup aplikacija za IoT uređaje često se deli na:
+Potrošačke – pametna kuća, briga o starima,
+bezbednosni sistemi i sl.
+Komercijalne – medicina i zdravstvena zaštita, transport,
+automatizacija zgrada i kuća
+Industrijske – optimizacija proizvodnih procesa u
+industriji, poljoprivredi, snabdevanju itd.
+Infrastrukturne prostore – pametni gradovi, monitoring
+životne sredine, regulisanje saobraćaja i sl.
+
+
+Industrial Internet of Things
+• IoT tehnoIogija u poslovnom/industrijskom sektoru je usko
+povezana sa četvrtom industrijskom revolucijom, poznatom i kao
+Industrija 4.0
+• Koncept je isti kao i kod potrošačkog IoT-a – za merenje i
+optimizaciju industrijskih procesa koriste se različiti senzori,
+bežične mreže, veliki broj podataka i analitika
+• Ako bi se IoT uveo u ceo lanac snabdevanja, a ne samo u
+pojedine njegove delove (tj. u pojedine kompanije), isporuka
+materijala bila bi uvek na vreme i moglo bi se jednostavnije
+upravljati procesom proizvodnje (od početka do kraja)
+Prednosti IoT
+• Efikasna optimizacija resursa
+• Minimalno angažovanje ljudskih
+resursa
+• Ušteda u vremenu
+• Pristup velikom broju podataka
+• Unapređena bezbednost
+Nedostaci IoT
+• Nezaposlenost
+• Oslanjanje na tehnologiju
+• Velika količina ličnih podataka = problemi sa
+privatnošću
+
+Naredna vežba
+• Informacioni sistemi funkcionalnih celina u
+primeni
+• Hvala na pažnji
+
+
+
+
+
+
+
+ELEKTRONSKO POSLOVANJE
+Koncept Internet of Things
+dr Dragana Sajfert
+dr Srđan Barzut
+The Internet of Things - vežba
+• Pronađite i objasnite primer primene koncepta
+IoT.
+• Primer treba da se odnosi na poslovnu primenu
+IoT.
+• Osim prednosti analizirajte i mane ove
+tehnologije na izabranom primeru.
+• Hvala na pažnji
+
+
+
+
+
+
+ELEKTRONSKOPOSLOVANJEPoslovni informacionisistemi
+dr DraganaSajfertdr SrđanBarzut
+Cilj nastavne jediniceo Razumevanje značaja informacionih sistema organizacijao Identifikovanje osnovnih tipova informacionih sistemaorganizacijao Sticanje praktičnih iskustava u radu sa različitiminformacionimsistemima organizacija
+o Razumevanje prirode i načina funkcionisanja različitihinformacionihsistema organizacija
+Osnove informacionihsistemaOsnovni pojmovi koji se koriste u teoriji informacionihsistemasu:• podatak,
+• informacija i
+• znanje
+Podatak
+• Podatak je kodirana predstavka o nekoj činjenici izrealnogsveta
+• Nosilac informacija i služi za tehničko uobličavanjeinformacija, kako bi se one mogle sačuvati ili preneti
+• Pojedinačni podaci nemaju nikakvo značenjeili gaimajuveoma malo
+• Primer: „crvena“ ?
+Informacija
+• Informacija je protumačeni podatak o pojavi kojupodatakprikazuje
+• Informacija je resurs kreiran od podataka
+• Informacija je prečišćen, organizovan i obrađenpodatakusmislenom kontekstu
+• Primer: „Auto je crvene boje”
+Znanje
+• Znanje se gradi na temelju novih informacijakojesenadovezuju na postojeće znanje
+• Različiti ljudi mogu različito interpretirati informacijeuzavisnosti od njihovog znanja
+• Primer: Kupio si nov auto, koje je boje? -Autojecrveneboje.
+Vrednost informacije
+• Informacije i znanje, danas predstavljaju vitalni ekonomski resurs• U današnje vreme informacija je jedan od najvažnijihi najskupljihresursa u poslovanju. • Njeno pravovremeno posedovanje, njena ispravnost i tajnostčestosu od odlučujuće važnosti u poslovanju bilo koje institucije.
+Pojam informacionih sistemao Sve moderne organizacije razvijaju i koriste informacionesistemeo Bez obzira na vaše zanimanje u bilo komposlovanju, zasigurnoćeteučestvovati u nekom od segmenata razvoja informacionogsistema,bilo kao klijent ili korisnik tih sistema, bilo kao sistemanalitičar,programer ili sl. o Informacioni sistem prikuplja i obrađuje podatke uciljugenerisanjainformacija za svoje krajnje korisnike
+Šta je to sistem?
+• Označava skup elemenata ili celinu sastavljenuoddelova• Svaka komponenta utiče na određeni način na radsistema• Ima specifičnu svrhu ili cilj
+ULAZ IZLAZPROCES
+TRANSFORMACIJE
+GRANICA SISTEMA
+• Komunikacija sistema s okruženjem obavlja se preko ulaza i izlaza, i
+njihovih interfejsa koji rade njihovo prilagođavanje prema sistemu
+Šta je to informacioni sistem?• Uređeni i integrisani skup podataka, procesa, interfejsa,mrežnih tehnologija i ljudi koji su umeđusobnojkorelaciji u cilju podrške i poboljšanja svakodnevnihposlovnih operacija i podrške menadžmentuurešavanjuposlovnih problema, planiranja, upravljanja,predviđanja, koordinisanja i donošenja odluka.
+Osnove informacionih sistemaOsnovne značajne komponente
+informacionih sistema su:
+• hardver (serveri, računari i
+infrastrukturna oprema),
+• softver (sistemski i aplikativni programi),
+• baze podataka,
+• telekomunikacioni sistemi i tehnologije,
+• ljudski resursi (obučen i specijalizovan
+kadar i krajnji korisnici)
+Sistem čuvanja podataka u datotekamaNedostaci:
+• Redundansa – višestruko skladištenje istih podataka. Prilikomažuriranjanekog podatka, potrebno ga promeniti u svimdatotekama. Čestoseprevidi neka od datoteka, čime se narušava integritet i konzistentnostpodataka. • Komplikovana izmena strukture podataka – npr. dodavanjenovekoloneujednoj datoteci, zahteva izmenu svih programa koji koristetudatoteku• Niska produktivnost u razvoju IS – podaci su „razbacani“ uniznezavisnihdatoteka, različito strukturiranih datoteka, koje mogubiti narazličitimlokacijama u mreži, pa je prikupljanje relevantnih podatakaizvišetakvihdatoteka radi neke nove analize i obrade izuzetno komplikovano
+Sistem čuvanja podataka u datotekamaRedundansa
+Nepotrebno višestruko skladištenje istih podataka povećava
+mogućnost greške, odnosno nekonzistentnost i tačnost podatakaIS
+Prodaja
+Podaci o
+kupcima
+Inventar
+Marketing
+Podaci o
+kupcima
+Magacin
+Inventar
+Sistem čuvanja podataka u datotekama• Ostali nedostaci:
+Ø Paralelan rad – S istem sa datotek ama neobezbeđujez adovol j a v a juću t a čnost i konzist entnost podatakauvišekorisničkom okruženju prilikomistovremenogpristupaiažuriranju podataka
+• Otkaz hardvera i softvera - Sistem sa datotekamaneobezbeđujezadovoljavajuću sigurnost i integritet podataka prilikomotkaza• Zbog svega navedenog, nastale su baze podataka
+Baze podataka
+• Podaci koji su nekada čuvani u više nezavisnihdatoteka,integrisani su u jedinstvenu bazu podatakaBAZA PODATAKA
+- Podaci o kupcima
+- Inventar
+Prodaja Marketing Magacin
+Troslojna arhitektura IS
+• Prezentacioni sloj obezbeđuje prikaz podataka krajnjemkorisnikukoristeći neku od raspoloživih tehnologija za korisnički interfejs
+• Sloj poslovne logike implementira poslovne procese i pravila, definisane u procesu analize
+• Sloj podataka je odgovarajuća baza podataka napravljena naosnovumodela podataka
+Prezentacioni
+sloj
+Korisnički interfejs
+Sloj poslovne
+logike
+Poslovni procesi i
+pravila
+Sloj podatakaBaza podataka
+Troslojna arhitektura IS
+Prednosti ovakvog pristupa:
+• Modularnost – svaki sloj je nezavistan prilikomrazvojai unapređivanja
+• Skalabilnost – prilagodljivost povećanimzahtevima• Fleksibilnost – mogućnost lakog prilagođavanjanovimzahtevima (više različitih interfejsa, novi procesi i
+pravila itd.)
+Pozitivni efekti primene IS
+● brza i obimna numerička preračunavanja
+● brza i precizna komunikacija
+● čuvanje velike količine podataka
+● brz i jeftin pristup informacijama
+● efikasno tumačenje velike količine podataka● povećana produktivnost i efikasnost rada
+Zašto su važni IS?
+Primeri:
+● Prijava ispita
+● Praćenje predavanja na daljinu
+● Bankarski poslovi
+● Pretraga poslova
+● Rezervacije putovanja
+● Administrativni poslovi
+Implikacije IS
+● Poslovni aspekt – povećava produktivnost rada, niži troškovi
+poslovanja, veće zadovoljstvo korisnika, kreiranje imidža inovativnih
+institucija i sl. ● Nezaposlenost?
+Ø dosta administrativnih poslova može se automatizovati
+Ø pojava novih poslova za kojima ranije nije postojala potreba
+(programeri, SEO, grafički dizajneri, IT podrška itd.)
+● Uticaj na zdravlje i kvalitet života – telemedicina vs. fizički i psihološki
+problemi usred preterane primene tehnologije
+● Društveni aspekt
+Ø bolja informisanost, veća dostupnost usluga i informacija
+Ø nedostatak slobodnog vremena, socijalna izolacija, zavisnost itd.
+Informacioni sistemi
+Po stepenu automatizacije, informacioni sistemi mogu biti:
+• neautomatizovani (zasnovani na ručnom unosu i ažuriranjupodataka)• automatizovni (obezbeđuju automatsko prikupljanje, čuvanje, kontrolui obradu podataka, kao i generisanje izveštaja, predviđanjaiobaveštenja o potrebnim akcijama – npr. skori nestanakrepromaterijala u magacinu, nedovoljne zalihe proizvodai sl.)
+• inteligentni (zasnovani na veštačkoj inteligenciji ili savremenimmodelima simulacija, strateških analiza i obrade podataka)
+Klasifikacija poslovnih IS organizacija
+● Sistemi za obradu transakcija - TPS
+● IS funkcionalnih celina - FAIS
+● Sistemiza planiranje resursa preduzeća - ERP● Sistemiza automatizaciju kancelarijskog poslovanja● Sistemi za menadžment odnosa sa kupcima- CRM
+● Sistemi za menadžment lanca snabdevanja - SCM● Sistemiza upravljanje sadržajemWeb prezentacija-CMS● Sistemi elektronske trgovine
+● ...
+Klasifikacija poslovnih IS organizacija
+Pitanja za proveru znanja1. Šta je to podatak?
+2. Šta je potrebno da podatak postane informacija?
+3. Osnovne značajne komponente informacionih sistema su?
+4. Šta je to redundansa?
+5. Navesti neke probleme kod IS zasnovanih na datotekama?
+6. Šta se postiže primenom troslojne arhitekture IS?
+7. Po stepenu automatizacije, informacioni sistemi mogu biti?
+8. Navesti implikacije IS?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELEKTRONSKOPOSLOVANJEPoslovni informacionisistemi
+dr DraganaSajfertdr SrđanBarzut
+Informacionisistemiza obradu transakcijaTransaction Processing System- TPS• Transakcija je bilo koja aktivnost čiji se podaci beležei
+čuvaju u bazi podataka. • Sistemiza obradu transakcija nadgledaju, prikupljaju, čuvajuiobrađuju podatke prikupljene od svih poslovnihtransakcija.• Digitalni profili (dosijei) korisnika – prikupljanjepodatakaouobičajenim aktivnostima i navikama korisnika, radi zaštite(npr. platne kartice ili nekog drugog sredstvaplaćanja)
+Primer: Sistem za obradu transakcije plaćanja
+platnom karticom na POS terminalu
+Primer: Primer jednog poslovnog IS
+Poslovni IS
+organizacije
+Baza
+podataka
+E-uprava
+•Izveštaji • Fakture
+• Platni listići •…Online
+upiti
+• Podaci o
+radnicima, kupcima, dobavljačima …
+• Ugovori • … ULAZ OBRADA IZLAZ
+• Transakcije moraju da ispune sledeće kriterijume:
+Ø Atomnost – transakcija se posmatra kao jedna celina, tj. ili su sveoperacijetransakcije su izvršene ili nijedna
+Ø Konzistentnost – BP mora da bude prevedena iz jednog konzistentnogstanja u drugo. U suprotnom, BP se vraća na prethodno konzistentnostanje
+Ø Izolacija – više transakcija nad istim podacima zahteva daprilikomizvršenja jedne transakcije, druga transakcija nema pristup timpodacima,odnosno da se transakcije izvršavaju serijski
+Ø Trajnost – po završetku transakcije, obrađeni podaci moraju biti sačuvani uBP, čak i u slučaju otkaza sistema
+Sprovođenje transakcija u bazama podataka
+Dva osnovna načina obrade transakcija:
+1. Obrada u realnom vremenu (engl. Real timeprocessing)–transakcije se obrađuju u realnomvremenuPrimer: Obračun po bruto principu u bankarstvu2. Serijska obrada (engl. Batch Processing) –prikupi sevećakoličina transakcija a zatimse sve transakcijeupaketuobrađuju u određeno vreme posle njihovognastankaPrimer: Obračun po neto principu u bankarstvu
+• Kliring je platna procedura koja predstavlja poravnanjepotraživanja i obaveza između dve banke na osnovuindividualnih naloga za plaćanje
+• Klirinški ciklus - vremenski interval u kojemsevrši poravnanjePrimljeni nalozi se vode prema:
+• Datumu dospeća ili
+• Redosledu prijema
+1. Obrada u realnom vremenu – Real time processingObračun po bruto principu (vrši NBS za učesnikebrutoobračuna)Transakcija se realizuje u realnomvremenu podopcijom“hitno”.primer: RTGS (Real Time Gross Settlment System) NBS• Preduslov: račun banaka mora da bude podokriljemNBS.• Karakteristika bruto obračuna: potrebno je dapostoji dovoljnopokrića na računu jer pritisak likvidnosti ima dnevni karakter.
+Proces obračuna po bruto principu:
+1. Na računima banaka se deponuje novac. 2. Prilikom transfera novca između njihovih klijenatanemarealnog kretanja novca. 3. NBS vrši preknjižavanje sredstava sa jednog nadrugi obračunskiračun banke. 4. Informacija o obavljenoj transakcijise dostavljabankamaučesnicama.
+Transfer se svodi na razmenu informacije koja jerealizovana u sadašnjem (realnom) vremenu. Novac sa
+računa
+kompanije
+Transferiše se
+Naračundrugekompanije
+Žiro kliring i RTGS sistem Narodne banke Srbije
+RTGS
+• Odnosise na plaćanja veće vrednosti
+• Obračun po bruto principu u najkraćemmogućemvremenuodmomenta prijema pojedinačnih naloga za prenos čiji suiznosi većiod300.000 din
+• Opcija hitno, provizija viša
+Žiro kliring
+• Odnosise na plaćanja manjih iznosa tj. naloga za prenos čiji jeiznosdo 300.000 din. • Plaćanja u kliringu se vrše u procesu neto poravnanjautri klirinškaciklusa svakog radnog dana (10.30, 12.30, 14.30 i 17.00). • Opcija u klirinškim intervalima, provizija niža
+2.Serijska obrada - Batch processing
+Obračun po neto principu
+• plaćanje se vrši između učesnika neto obračuna• Utvrđuje se neto pozicija svake banke u odnosunadrugebanke• NBS radi transfer neto razlike po izvršenomsaldiranju (primer: Žiro kliring)
+Razvijen je sistem poravnanja u klirinškimciklusima. Cilj:
+• Pojednostavljivanje procesa obrade velike količinepodatakakoje su posledica velikog broja bankarskihtransakcija.• Ušteda vremena
+Primer: Kliring u 10,30h
+Transfer netorazlikepoizvršenomsaldiranjuuiznosu od100.000dinnaračun bankeAradi seunar ednomkl i r i nškomciklusu(u12,30h)poravnanje
+NBS
+Banka A Banka B
+Nalozi za uplatu
+iznose 700.000 din
+Nalozi za uplatu
+iznose 800.000 din. Neto potraživanje=
+100.000 din
+Neto obaveza=
+100.000 din. Neto pozicija
+banke
+Obračunski račun
+banke A
+Obračunski račun
+banke B
+• Radi podsticanja inovacija u finansijskomsektorui razvojubezgotovinskih plaćanja u zemlji, NBS je napravilasistemzainstant plaćanja - IPS (Instant Platni Sistem)
+• Izvršavanje pojedinačnih instant transfera odobrenja(instant plaćanja) 24/7/365, skoro trenutno, odnosnozasvega nekoliko sekundi
+• U IPS NBS sistemu realizuju se plaćanja do300.000dinara• Primer obrade u realnom vremenu
+Instant platni sistem
+• Troškovi obrade transakcija instant plaćanja za trgovce višestrukosunižiod troškova obrade kartičnih transakcija
+• Sigurnost i jednostavnost plaćanja
+• Mogućnost povraćaja sredstava, i to po postupku koji je jasnoutvrđenpropisima
+• Realizacija instant plaćanja na prodajnom mestu trgovca putemrazličitihkanala (mobilni telefon, tablet, kasa, POS terminal), kaoi plaćanjenainternet prodajnim mestima
+Instant platni sistem - prednosti
+IS funkcionalnih celina
+● Functional Area Information System- FAIS
+● Obezbeđuju informacije o funkcionalnim
+celinama organizacije
+● Generišu 3 vrste izveštaja:
+1. Rutinski izveštaji
+Routine reports
+2. Ad hoc izveštaji
+Ad hoc/On demand reports
+3. Izveštaji o izuzecima
+Exception reports
+IS funkcionalnihcelina• Funkcionalna celina - poslovna jedinica unutar kompanijeukojojsu zaposleni specijalizovani za obavljanje određnihposlova.Funkcionalne celine su:
+• Ljudski resursi
+• Računovodstvo
+• Marketing
+• Prodaja
+• Proizvodnja
+• Nabavka
+IS funkcionalnihcelinaCilj: Unapređenje funkcionisanja funkcionalne celinepomoćuovihIS.1. Rutinski izveštaji
+Daju informacije o redovnom poslovanju funkcionalneceline.• IS računovodstva daje izveštaj o obavezama premadobavljačima.• IS ljudskih resursa daje izveštaj o broju zaposlenih. • IS marketinga daje izveštaj o prihodima od reklama.
+IS funkcionalnih celina2. Ad hoc (lat. zbog ovog, zbog svrhe) izveštaji- Daju informacije o nastanku vanrednih okolnosti. Npr: -Menadžere interesuje kolika je prodaja zaliha tokomnovegodine.-Došlo je do pojave gubitka usled manipulacije uposlovanju. 3. Izveštaj o izuzecima
+Ukazuju na odstupanja u poslovanju u odnosu na ciljeve. Npr:-Izveštaj o manjoj prodaji u odnosu na ciljanu prodaju. -Izveštaj o višim troškovima u odnosu na plan.
+Bitno ograničenje IS funkcionalnih celina:
+Nemaju mogućnost razmene informacija.
+Pitanja za proveru znanja
+1. Objasniti šta je to transakcija. 2. U BP, koja 4 kriterijuma transakcija mora da ispuni?
+3. Identifikujte dva osnovna načina obrade podataka IS za obradu transakcija?4. Navesti jedan primer obrade u realnom vremenu. 5. Koje vrste izveštaja generišu informacioni sistemi funkcionalnih celina?6. Koji je značajan nedostatak IS funkcionalnih celina?
+Reference
+• D. Sajfert, S. Barzut, predavanja i vežbe za predmet u ppt formatuza2022. (na Studentskom Portalu)
+• V. Simović, Elektronsko poslovanje, udžbenik, ITS, 2016. • Online izvori
